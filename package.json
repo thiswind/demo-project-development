@@ -17,16 +17,16 @@
     "check": "npm run build && npm run docs:build"
   },
   "dependencies": {
-    "@vitejs/plugin-react": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "vite": "latest",
-    "vitepress": "latest"
+    "@vitejs/plugin-react": "6.0.2",
+    "react": "19.2.6",
+    "react-dom": "19.2.6",
+    "vite": "8.0.15",
+    "vitepress": "1.6.4"
   },
   "devDependencies": {
-    "@types/node": "^25.9.1",
-    "@types/react": "latest",
-    "@types/react-dom": "latest",
-    "typescript": "~5.8.3"
+    "@types/node": "25.9.1",
+    "@types/react": "19.2.15",
+    "@types/react-dom": "19.2.3",
+    "typescript": "5.8.3"
   }
 }
