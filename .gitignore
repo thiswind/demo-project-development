@@ -29,3 +29,4 @@ pnpm-debug.log*
 .idea/
 
 docs/.vitepress/config.js
+.vercel
