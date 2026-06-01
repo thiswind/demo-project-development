@@ -1,0 +1,12 @@
+{
+  "version": "v0.14.0-3-gdcee53c",
+  "installed_at": "2026-06-01 06:05:46",
+  "source": "cursor-agent-team",
+  "platform": "claude_code",
+  "files": [
+    ".claude/commands/discuss.md",
+    ".claude/commands/prompt_engineer.md",
+    ".claude/commands/crew.md",
+    ".claude/commands/spec_translator.md"
+  ]
+}
